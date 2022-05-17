@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "devsecops/SourceCodeAnalysis/index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "devsecops/SourceCodeAnalysis/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,15 @@
   },
   "active": "e249d8e4bf533874",
   "lastOpenFiles": [
-    "index.md",
-    "pentesting/index.md",
+    "devsecops/SourceCodeAnalysis/index.md",
     "devsecops/index.md",
-    "general/about-me.md"
+    "devsecops/DependencyAnalysis/index.md",
+    "index.md",
+    "pentesting/MobilePentesting/index.md",
+    "pentesting/MobilePentesting/Mobile_iOS-Client.md",
+    "pentesting/index.md",
+    "pentesting/Information_Gathering.md",
+    "devsecops/DependencyAnalysis/OWASP_Dependency_Check.md",
+    "devsecops/DependencyAnalysis/Snyk.md"
   ]
 }
