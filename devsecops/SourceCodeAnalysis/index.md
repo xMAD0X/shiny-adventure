@@ -3,6 +3,7 @@ layout: default
 title: Source Code Analysis
 nav_order: 2
 has_children: true
+parent: DevSecOps
 ---
 
 ## Source Code Analysis
