@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about-me.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about-me.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,9 @@
   },
   "active": "e249d8e4bf533874",
   "lastOpenFiles": [
-    "about-me.md",
-    "index.md"
+    "index.md",
+    "pentesting/index.md",
+    "devsecops/index.md",
+    "general/about-me.md"
   ]
 }

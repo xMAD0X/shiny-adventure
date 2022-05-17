@@ -6,6 +6,15 @@ This adventure will also present various implementation of DevSecOps tools in or
 
 ### Pentesting
 
+If you want to find out more about the pentesting part, feel free to follow this path : 
+
+
+[Get me to the pentesting part](./pentesting/index.md){: .btn }
+
 
 ### DevSecOps
 
+If you want to find out more about the DevSecOps part and some implementation, feel free to follow this path : 
+
+
+[Get me to the DevSecOps part](./devsecops/index.md){: .btn }
