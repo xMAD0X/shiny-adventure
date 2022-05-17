@@ -1,3 +1,10 @@
+---
+layout: default
+title: UI Components
+nav_order: 2
+has_children: true
+---
+
 ## DevSecOps 
 
 On this page you will find all the references to DevSecOps implementation.
