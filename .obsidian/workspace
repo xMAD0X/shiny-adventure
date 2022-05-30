@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pentesting/Shell.md",
+            "file": "pentesting/ServicePentesting/LDAP.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pentesting/Shell.md",
+                "file": "pentesting/ServicePentesting/LDAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e249d8e4bf533874",
   "lastOpenFiles": [
-    "pentesting/Shell.md",
+    "pentesting/ServicePentesting/LDAP.md",
+    "pentesting/ServicePentesting/WinRM.md",
+    "pentesting/ServicePentesting/SMB.md",
+    "pentesting/ServicePentesting/REDIS.md",
     "pentesting/Information_Gathering.md",
-    "pentesting/MobilePentesting/Mobile_iOS-Client.md",
-    "pentesting/MobilePentesting/index.md",
     "pentesting/index.md",
-    "devsecops/index.md",
-    "devsecops/DependencyAnalysis/OWASP_Dependency_Check.md",
-    "devsecops/DependencyAnalysis/Snyk.md",
-    "devsecops/SourceCodeAnalysis/SonarQube.md",
-    "devsecops/SourceCodeAnalysis/SemGrep.md"
+    "pentesting/ServicePentesting/FTP.md",
+    "pentesting/ServicePentesting/index.md",
+    "pentesting/MobilePentesting/Mobile_iOS-Client.md",
+    "pentesting/MobilePentesting/index.md"
   ]
 }
