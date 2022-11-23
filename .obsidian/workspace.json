@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "df3a18d0e8877820",
+    "type": "split",
+    "children": [
+      {
+        "id": "af65f228f7efaa94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d72faf02a7c62126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentesting/Information_Gathering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79a2705dd5619b37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentesting/Information_Gathering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5458aef77478fb62",
+    "type": "split",
+    "children": [
+      {
+        "id": "20db962db19b3792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2a698207dea2795",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59375c78a98e4b3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5185acb9439c738c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "632e2e1bc06c2064",
+    "type": "split",
+    "children": [
+      {
+        "id": "24aa72e9397c3736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a95e5ad8a0cde24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pentesting/Information_Gathering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "687591aa97952faf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pentesting/Information_Gathering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf434e503cb38516",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6aa17852999bb4cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pentesting/Information_Gathering.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "79a2705dd5619b37",
+  "lastOpenFiles": [
+    "pentesting/VulnerabilityScanning.md",
+    "pentesting/Information_Gathering.md",
+    "pentesting/index.md",
+    "pentesting/MobilePentesting/Mobile_iOS-Client.md",
+    "pentesting/Shell.md",
+    "devsecops/SourceCodeAnalysis/SonarQube.md",
+    "devsecops/SourceCodeAnalysis/SemGrep.md",
+    "devsecops/SourceCodeAnalysis/index.md",
+    "devsecops/DependencyAnalysis/Snyk.md",
+    "devsecops/DependencyAnalysis/OWASP_Dependency_Check.md"
+  ]
+}
